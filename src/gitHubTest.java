@@ -4,7 +4,7 @@ public class gitHubTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Demo git hub project ");
+		System.out.println("Demo git hub  ");
 
 	}
 
